@@ -4,4 +4,4 @@
 javac ServerThread.java Server.java
 
 ### Running command
-java Server <port>
+java Server &lt;port&gt;
