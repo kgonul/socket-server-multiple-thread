@@ -1,7 +1,7 @@
 # socket-server-multiple-thread
 
-## Compilation command
+### Compilation command
 javac ServerThread.java Server.java
 
-## Running command
+### Running command
 java Server <port>
